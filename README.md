@@ -1,3 +1,3 @@
 # Papers-for-deep-learning
 
-Summaries and notes on Deep Learning research papers
+https://github.com/dennybritz/deeplearning-papernotes Summaries and notes on Deep Learning research papers
