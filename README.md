@@ -9,3 +9,8 @@ http://xueshu.baidu.com/s?wd=paperuri%3A%2813855fb298f0c3e47be0b5abe018d78a%29&f
 
 
 
+# material 
+https://github.com/jindongwang/transferlearning-tutorial 《迁移学习简明手册》
+https://github.com/jindongwang/transferlearning  Everything about Transfer Learning and Domain Adaptation
+https://github.com/allmachinelearning/MachineLearning Machine learning resource
+ 
