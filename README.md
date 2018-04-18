@@ -14,4 +14,9 @@ https://arxiv.org/pdf/1804.04577.pdf Feature-Based Aggregation and Deep Reinforc
 https://github.com/jindongwang/transferlearning-tutorial 《迁移学习简明手册》
 https://github.com/jindongwang/transferlearning  Everything about Transfer Learning and Domain Adaptation
 https://github.com/allmachinelearning/MachineLearning Machine learning resource
- 
+https://github.com/khanhnamle1994/computer-vision Programming Assignments and Lectures for Stanford's CS 231: Convolutional Neural Networks for Visual Recognition http://cs231n.stanford.edu/
+https://www.zhihu.com/question/64021205 计算机视觉中video understanding领域有什么研究方向和比较重要的成果？
+https://www.zhihu.com/question/67257036 计算机视觉方向博士如何做好科研？
+
+https://github.com/pytorch/vision/ Datasets, Transforms and Models specific to Computer Vision
+
