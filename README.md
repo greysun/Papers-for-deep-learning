@@ -9,6 +9,7 @@ http://xueshu.baidu.com/s?wd=paperuri%3A%2813855fb298f0c3e47be0b5abe018d78a%29&f
 
 https://arxiv.org/pdf/1804.04577.pdf Feature-Based Aggregation and Deep Reinforcement Learning a survey and some implementations
 
+The most cited deep learning papers: https://github.com/terryum/awesome-deep-learning-papers
 
 
 # material 
