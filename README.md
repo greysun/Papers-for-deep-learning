@@ -23,3 +23,5 @@ https://www.zhihu.com/question/67257036 计算机视觉方向博士如何做好�
 
 https://github.com/pytorch/vision/ Datasets, Transforms and Models specific to Computer Vision
 
+# tools 
+https://github.com/tryolabs/luminoth  Deep Learning toolkit for Computer Vision https://luminoth.ai
