@@ -26,6 +26,7 @@ https://github.com/pytorch/vision/ Datasets, Transforms and Models specific to C
 https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 吴恩达老师的机器学习课程个人笔记
 
 https://github.com/fengdu78/deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+https://github.com/artix41/awesome-transfer-learning Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)
 
 
 
