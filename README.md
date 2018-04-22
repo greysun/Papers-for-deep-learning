@@ -23,6 +23,13 @@ https://www.zhihu.com/question/64021205 计算机视觉中video understanding领
 https://www.zhihu.com/question/67257036 计算机视觉方向博士如何做好科研？
 
 https://github.com/pytorch/vision/ Datasets, Transforms and Models specific to Computer Vision
+https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 吴恩达老师的机器学习课程个人笔记
+
+https://github.com/fengdu78/deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+
+
 
 # tools 
 https://github.com/tryolabs/luminoth  Deep Learning toolkit for Computer Vision https://luminoth.ai
+https://github.com/wichtounet/dll Deep Learning Library (DLL) for C++ (ANNs, CNNs, RBMs, DBNs...)
+
