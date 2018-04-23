@@ -27,10 +27,12 @@ https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 吴恩达老师的机器�
 
 https://github.com/fengdu78/deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 https://github.com/artix41/awesome-transfer-learning Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)
+https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF  OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与TensorFlow机器学习实用指南)
 
 
 
 # tools 
 https://github.com/tryolabs/luminoth  Deep Learning toolkit for Computer Vision https://luminoth.ai
 https://github.com/wichtounet/dll Deep Learning Library (DLL) for C++ (ANNs, CNNs, RBMs, DBNs...)
+https://github.com/intel-analytics/BigDL/ BigDL: Distributed Deep Learning Library for Apache Spark https://bigdl-project.github.io/
 
