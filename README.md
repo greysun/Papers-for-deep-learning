@@ -32,6 +32,9 @@ https://github.com/fengdu78/deeplearning.ai（吴恩达老师的深度学习课�
 https://github.com/artix41/awesome-transfer-learning Best transfer learning and domain adaptation resources (papers, tutorials, datasets, etc.)
 https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF  OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与TensorFlow机器学习实用指南)
 
+https://github.com/aikorea/awesome-rl#papers--thesis  Reinforcement learning resources curated http://aikorea.org/awesome-rl
+
+
 
 
 # tools 
