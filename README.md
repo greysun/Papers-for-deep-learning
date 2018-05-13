@@ -14,6 +14,9 @@ The most cited deep learning papers: https://github.com/terryum/awesome-deep-lea
 
 # material 
 https://github.com/Developer-Y/cs-video-courses List of Computer Science courses with video lectures.
+https://github.com/ChristosChristofidis/awesome-deep-learning A curated list of awesome Deep Learning tutorials, projects and communities.
+
+
 
 https://github.com/jindongwang/transferlearning-tutorial 《迁移学习简明手册》
 https://github.com/jindongwang/transferlearning  Everything about Transfer Learning and Domain Adaptation
