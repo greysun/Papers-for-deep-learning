@@ -1,6 +1,10 @@
 # machine-learning-notes
 https://github.com/roboticcam/machine-learning-notes/blob/master/README.md
 
+Practice and tutorial-style notebooks covering wide variety of machine learning techniques
+ https://github.com/tirthajyoti/PythonMachineLearning
+
+
 # Papers-for-deep-learning
 
 https://github.com/dennybritz/deeplearning-papernotes Summaries and notes on Deep Learning research papers
