@@ -17,6 +17,8 @@ The most cited deep learning papers: https://github.com/terryum/awesome-deep-lea
 
 
 # material 
+https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247493879&idx=1&sn=d6c17bbbd5a76a32554817dd564ccfad&chksm=fc8609e4cbf180f216f64d0deb82a3de70ba2cd83003d049cb1a1606bed49c8a6c4c4fe9288c&mpshare=1&scene=24&srcid=07311emVxxDtKx5YPJtyiVuH#rd  【2018最新版】 200个最好的与机器学习、自然语言处理相关教程
+
 https://github.com/Developer-Y/cs-video-courses List of Computer Science courses with video lectures.
 https://github.com/ChristosChristofidis/awesome-deep-learning A curated list of awesome Deep Learning tutorials, projects and communities.
 
